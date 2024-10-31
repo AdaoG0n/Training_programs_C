@@ -21,5 +21,5 @@ Este repositório contém funções de treinamento em linguagem C. Ele foi criad
 
 ---
 
-###### Repositorio desenvolvido durante a piscine por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
+###### Repositorio desenvolvido por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2FTraining_programs_c.json&style=flat-square&labelColor=black&color=blue)
