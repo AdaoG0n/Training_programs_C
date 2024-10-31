@@ -6,9 +6,15 @@
 Este repositório contém funções de treinamento em linguagem C. Ele foi criado para ajudar no aprendizado e prática dos fundamentos da linguagem e reforçar conceitos importantes para o desenvolvimento de habilidades em programação.
 
 ---
+<details>
+<summary>Programas</summary>
 
-### Programas:
 - [ ] [Calculadora Simples](https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C)
+
+</details>
+
+
+
 
 ---
 
