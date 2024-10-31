@@ -8,8 +8,6 @@ Este repositório contém funções de treinamento em linguagem C. Ele foi criad
 ---
 
 ### Programas:
----
-
 - [ ] [Calculadora Simples](https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C)
 
 ---
