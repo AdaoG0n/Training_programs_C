@@ -3,6 +3,7 @@
 <a href="#" style="pointer-events: none;">
 <img align="right" src="https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/calculadorasimplesc.png" width="400"/>
 </a>
+
 ###### Um projeto clássico em C para revisar algumas funções e conceitos. 
 ###### Aqui estão algumas funcionalidades implementadas, que cobrem diversos conceitos e funções:
 
