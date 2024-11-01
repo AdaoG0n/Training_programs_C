@@ -26,7 +26,7 @@ Este repositório contém funções de treinamento em linguagem C. Ele foi criad
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 </div>
 
----
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ###### Repositorio desenvolvido por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2FTraining_programs_c.json&style=flat-square&labelColor=black&color=blue)
