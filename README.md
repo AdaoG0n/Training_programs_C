@@ -11,6 +11,7 @@ Este repositório contém funções de treinamento em linguagem C. Ele foi criad
 
 - [ ] [Calculadora Simples](https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C)
 - [ ] [Projeto intchar](https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar) (Funcionamento de ITOA e ATOI)
+- [ ] [libft_learn](https://github.com/AdaoG0n/Training_programs_C/tree/main/libft_learn) (Programa para ver o funcionamento das funções da biblioteca libft(42))
 
 </details>
 
