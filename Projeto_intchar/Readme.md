@@ -1,4 +1,7 @@
 # <a href="#" style="pointer-events: none;"> <img src="https://img.shields.io/badge/status-finished-success?color=%2312bab9&style=flat-square"/></a> <a href="https://github.com/AdaoG0n" style="pointer-events: none;"> <img src="https://img.shields.io/badge/Follow-me?color=%2312bab9&style=flat-square"/></a> • Projeto Intchar
+<a href="#" style="pointer-events: none;">
+<img align="right" src="./assets/intchar.png" width="200"/>
+</a>
 
 O projeto **Intchar** é uma biblioteca em C que fornece funções para conversão entre inteiros e strings, além de manipulação de memória.<br/>
 Este projeto é uma reimplementação de funções padrão da biblioteca C, como `atoi` e `itoa`.</br>
