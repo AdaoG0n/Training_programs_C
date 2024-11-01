@@ -10,7 +10,7 @@ Este repositório contém funções de treinamento em linguagem C. Ele foi criad
 <summary>Programas</summary>
 
 - [ ] [Calculadora Simples](https://github.com/AdaoG0n/Training_programs_C/tree/main/Calculcadora_simples_C)
-- [ ] [Projeto intchar](https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar)
+- [ ] [Projeto intchar](https://github.com/AdaoG0n/Training_programs_C/tree/main/Projeto_intchar) (Funcionamento de ITOA e ATOI)
 
 </details>
 
