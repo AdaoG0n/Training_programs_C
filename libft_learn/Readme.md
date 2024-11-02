@@ -16,6 +16,8 @@ Libft Tester is an interactive testing tool for the Libft project, a fundamental
 - Detailed explanations of each function's purpose
 - Memory leak detection for relevant functions
 
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+
 ### Functions Tested
 
 This tester covers all standard Libft functions, including but not limited to:
@@ -27,6 +29,8 @@ This tester covers all standard Libft functions, including but not limited to:
 - String searching (`ft_strchr`, `ft_strrchr`, `ft_strnstr`)
 - Memory allocation (`ft_calloc`, `ft_strdup`)
 - List operations (if bonus part is included)
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### How to Use
 
@@ -42,6 +46,8 @@ gcc -o libft_tester main.c -L. -lft
 ```
 
 5. Follow the on-screen prompts to test individual functions.
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### Requirements
 
@@ -65,10 +71,14 @@ gcc -o libft_tester main.c -L. -lft
 >This flexibility allows you to test your own Libft implementation or use the one provided with the project,<br/>
 > depending on your preference and needs.<br/>
 
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+
 ### Contributing
 
 Contributions to improve the tester or add support for additional functions are welcome. <br/>
 Please feel free to submit pull requests or open issues for any bugs or suggestions.<br/>
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
 
 ### License
 
