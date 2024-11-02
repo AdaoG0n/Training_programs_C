@@ -6,7 +6,7 @@
 
 ### Description
 
-Libft Tester is an interactive testing tool for the Libft project, a fundamental C library implementation commonly used in 42 school curriculum. This tester provides a user-friendly interface to test each function in the Libft library individually, allowing developers to verify the correctness of their implementations.
+Libft_learn is an interactive testing tool for the Libft project, a fundamental C library implementation commonly used in 42 school curriculum. This tester provides a user-friendly interface to test each function in the Libft library individually, allowing developers to verify the correctness of their implementations.
 
 ### Features
 
