@@ -84,3 +84,5 @@ make
 > [!Note]
 > A calculadora consegue lidar com numeros decimais, para isso terá de inserir um `.` ao invés de `,`.
 > ###### EX: 1.5
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
