@@ -26,6 +26,7 @@ Este repositório contém funções de treinamento em linguagem C. Ele foi criad
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
 </div>
+</br>
 
 ![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
 ###### Repositorio desenvolvido por: <a href="https://github.com/AdaoG0n">Adão Gonçalves</a>
