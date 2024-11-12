@@ -89,7 +89,7 @@ This project is open source and available under the [MIT License](LICENSE). <br/
 - 42 School for the Libft project concept
 - All contributors to this tester
 
-![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/bar.png)
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
 ###### Projeto desenvolvido por: [Adão Gonçalves](https://github.com/AdaoG0n)
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAdaoG0n%2Flibft_learn.json&style=flat-square&labelColor=black&color=blue)
