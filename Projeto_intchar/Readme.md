@@ -67,3 +67,6 @@ make            # Compila o projeto e gera o executável
 make clean      # Remove arquivos objeto
 make fclean     # Remove arquivos objeto e o executável
 make re         # Recompila tudo
+```
+
+![](https://github.com/AdaoG0n/AdaoG0n/blob/main/assests/animated%20gifs/madeby.gif)
